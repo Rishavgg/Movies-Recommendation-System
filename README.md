@@ -6,7 +6,7 @@
 
 This repository contains a Movie Recommender System built using Python, Streamlit, TensorFlow, and scikit-learn. The system uses pre-trained embeddings from TensorFlow Hub to generate movie embeddings, and then implements the k-nearest neighbors algorithm to recommend similar movies based on user input.
 
-![Add an image or GIF of the movie recommender system in action](images/demo_GIF.gif)
+![](images/demo_GIF.gif)
 
 ## Getting Started
 
